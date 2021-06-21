@@ -6,7 +6,7 @@ INSERT INTO publisher(name,country) VALUES ("Del Rey","UK");
 INSERT INTO publisher(name,country) VALUES ("Vintage","UK");
 
 INSERT INTO subjects(name) VALUES("C");
-INSERT INTO subjects(name) VALUES("Unix");
+INSERT INTO subjects(name) VALUES("UNIX");
 INSERT INTO subjects(name) VALUES("Technology");
 INSERT INTO subjects(name) VALUES("Go");
 INSERT INTO subjects(name) VALUES("Science Fiction");
